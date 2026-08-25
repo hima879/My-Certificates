@@ -1,12 +1,5 @@
 # 🎓 Himanshi's Certificate Portfolio
 
-<div align="center">
-
-![Repository Size](https://img.shields.io/github/repo-size/hima879/My-Certificates)
-![Last Commit](https://img.shields.io/github/last-commit/hima879/My-Certificates)
-
-</div>
-
 ---
 
 ## 📜 Certificate Collection
