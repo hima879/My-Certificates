@@ -31,6 +31,7 @@
 |-------------|--------|------|--------------|
 | [**SQL for Beginners**](SQL/Scaler-SQL-for-Beginners.jpg) | Scaler | Jun 26, 2025 | 48 Videos, 5 Modules |
 | [**SQL (Basic)**](SQL/HackerRank-SQL-Basic.pdf) | HackerRank | Aug 18, 2026 | ID: OA31975821CB |
+| [**SQL (Intermediate)**](SQL/SQL(intermediate)_certificate.png) | HackerRank | Aug 25, 2026 | ID: F40C00351C96 |
 
 </details>
 
@@ -134,10 +135,10 @@
 
 ## 📝 Repository Information
 
-- **Total Certificates:** 13
+- **Total Certificates:** 14
 - **Certification Categories:** 7
 - **Skills Covered:** 25+
-- **Last Updated:** August 24, 2026
+- **Last Updated:** August 25, 2026
 - **Repository Size:** ~X MB
 - **License:** MIT (Open Source)
 
