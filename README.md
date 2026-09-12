@@ -10,9 +10,9 @@
 
 | Certificate | Issuer | Date | Verification |
 |-------------|--------|------|--------------|
-| [**Basics of Python**](Python/Infosys-Basics-of-Python.pdf) | Infosys | Dec 8, 2024 | QR Code Available |
-| [**Python Beginners Course**](Python/Scaler-Python-Beginners-Course.png) | Scaler | Jan 9, 2025 | 121 Videos, 16 Modules |
-| [**Python (Basic)**](Python/HackerRank-Python-Basic.pdf) | HackerRank | Mar 1, 2026 | ID: 8C74F83198A6 |
+| [**Basics of Python**](Python/Infosys-Basics-of-Python.jpg) | Infosys | Dec 8, 2024 | QR Code Available |
+| [**Python Beginners Course**](Python/Scaler-Python-Beginners-Course.jpg) | Scaler | Jan 9, 2025 | 121 Videos, 16 Modules |
+| [**Python (Basic)**](Python/HackerRank-Python-Basic.jpg) | HackerRank | Mar 1, 2026 | ID: 8C74F83198A6 |
 
 </details>
 
@@ -23,8 +23,8 @@
 | Certificate | Issuer | Date | Verification |
 |-------------|--------|------|--------------|
 | [**SQL for Beginners**](SQL/Scaler-SQL-for-Beginners.jpg) | Scaler | Jun 26, 2025 | 48 Videos, 5 Modules |
-| [**SQL (Basic)**](SQL/HackerRank-SQL-Basic.pdf) | HackerRank | Aug 18, 2026 | ID: OA31975821CB |
-| [**SQL (Intermediate)**](SQL/SQL(intermediate)_certificate.png) | HackerRank | Aug 25, 2026 | ID: F40C00351C96 |
+| [**SQL (Basic)**](SQL/HackerRank-SQL-Basic.jpg) | HackerRank | Aug 18, 2026 | ID: OA31975821CB |
+| [**SQL (Intermediate)**](SQL/SQL(intermediate)_certificate.jpg) | HackerRank | Aug 25, 2026 | ID: F40C00351C96 |
 
 </details>
 
@@ -35,8 +35,8 @@
 | Certificate | Issuer | Duration | Status |
 |-------------|--------|----------|---------|
 | [**Generative AI with ML**](Data%20Science-AI/Remarkskill-GenAI-Internship.jpg) | Remarkskill Education | 6 Weeks | ✅ Completed |
-| [**AI For Everything**](Data%20Science-AI/Pantech-AI-Internship.png) | Pantech Prolabs | Jul 22, 2025 | ✅ Certified |
-| [**Data Science with Python**](Data%20Science-AI/AIBO8-DataScience-Workshop.jpeg) | AIBO8 | 15 Days | ✅ Workshop |
+| [**AI For Everything**](Data%20Science-AI/Pantech-AI-Internship.jpg) | Pantech Prolabs | Jul 22, 2025 | ✅ Certified |
+| [**Data Science with Python**](Data%20Science-AI/AIBO8-DataScience-Workshop.jpg) | AIBO8 | 15 Days | ✅ Workshop |
 
 </details>
 
@@ -46,7 +46,7 @@
 
 | Certificate | Issuer | Date | Topics |
 |-------------|--------|------|--------|
-| [**C Programming**](Programming%20Fundamentals/Infosys-C-Programming.pdf) | Infosys | Nov 19, 2024 | Comprehensive Training |
+| [**C Programming**](Programming%20Fundamentals/Infosys-C-Programming.jpg) | Infosys | Nov 19, 2024 | Comprehensive Training |
 
 </details>
 
@@ -56,7 +56,7 @@
 
 | Certificate | Issuer | Duration | Topics |
 |-------------|--------|----------|--------|
-| [**Figma Bootcamp**](Design/LetsUpgrade-Figma-Bootcamp.pdf) | LetsUpgrade | 3 Days | UI/UX Design |
+| [**Figma Bootcamp**](Design/LetsUpgrade-Figma-Bootcamp.jpg) | LetsUpgrade | 3 Days | UI/UX Design |
 
 </details>
 
@@ -66,9 +66,9 @@
 
 | Achievement | Issuer | Date | Recognition |
 |-------------|--------|------|-------------|
-| [**50 Days Badge**](Achievements/50-Days-Badge-2026.png) | LeetCode | 2026 | 50+ Days Problem Solving |
-| [**100 Days Badge**](Achievements/100-Days-Badge-2026.png) | LeetCode | 2026 | 100+ Days Problem Solving |
-| [**Smart India Hackathon**](Hackathons/ITM-Internal-SIH-2025.pdf) | ITM University | Sep 15-16, 2025 | Internal SIH 2025 |
+| [**50 Days Badge**](Achievements/50-Days-Badge-2026.jpg) | LeetCode | 2026 | 50+ Days Problem Solving |
+| [**100 Days Badge**](Achievements/100-Days-Badge-2026.jpg) | LeetCode | 2026 | 100+ Days Problem Solving |
+| [**Smart India Hackathon**](Hackathons/ITM-Internal-SIH-2025.jpg) | ITM University | Sep 15-16, 2025 | Internal SIH 2025 |
 
 </details>
 
@@ -131,7 +131,8 @@
 - **Total Certificates:** 14
 - **Certification Categories:** 7
 - **Skills Covered:** 25+
-- **Last Updated:** August 25, 2026
+- **Last Updated:** September 12, 2026
+- **File Format:** All certificates converted to JPG for easy viewing
 - **Repository Size:** ~X MB
 - **License:** MIT (Open Source)
 
